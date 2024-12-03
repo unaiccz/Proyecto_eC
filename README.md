@@ -1,2 +1,5 @@
 # Aplicacion de gestion academica
-!ap
+-- Participantes:
+-Unai Compaired
+-Noe Beltran
+-Sergio Beamud
